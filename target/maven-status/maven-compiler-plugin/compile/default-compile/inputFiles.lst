@@ -1,0 +1,12 @@
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\config\SecurityConfig_old.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\config\SecurityConfig.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\config\WebConfig.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\security\JwtTokenAuthenticationFilter.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\BackendApplication.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\entity\Username.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\config\JwtTokenFilter.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\repository\UserRepository.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\controller\MessagesController.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\security\JwtProperties.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\entity\User.java
+D:\Courses\Java\Spring downloads\backend\backend\src\main\java\com\example\jwt\backend\security\JwtTokenProvider.java
